@@ -1,0 +1,9 @@
+*.o
+*.hi
+*.tix
+*.mix
+.stack-work
+dist
+.dir-locals.el
+
+tests/**/*.md
